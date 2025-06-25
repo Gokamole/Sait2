@@ -98,6 +98,8 @@ body, button {
     }
     .new-collection{
         background-image: url(assets/background_1440.svg);
+        width: 1440px;
+        margin: 0 auto;
     }
     .header-button-mobile{
         display: none;
